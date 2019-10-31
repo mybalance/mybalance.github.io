@@ -1,0 +1,10 @@
+@import url('https://rsms.me/inter/inter.css');
+
+@mixin heading-font {
+  font-family: 'Inter';
+  font-weight: 800 !important;
+}
+
+@mixin body-font {
+  font-family: 'Inter';
+}
