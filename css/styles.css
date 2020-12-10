@@ -390,6 +390,11 @@ h6, .h6 {
   font-size: 1rem;
 }
 
+iframe#bg-video {
+  width: calc(100vh * 1.8962962963);
+  height: 100%;
+}
+
 .textbox {
   background-color: rgba(255, 255, 255, 0.9);
   border-radius: 2rem;
@@ -398,6 +403,10 @@ h6, .h6 {
 
 .mockup-image {
   max-height: 30rem;
+}
+
+#bg-vid-container {
+  background-color: black;
 }
 
 .page-section#services {
