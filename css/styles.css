@@ -393,6 +393,8 @@ h6, .h6 {
 iframe#bg-video {
   width: calc(100vh * 1.8962962963);
   height: 100%;
+  display: block;
+  margin: 0 auto;
 }
 
 .textbox {
